@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telarana",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Depende de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Ingeniaría avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Edinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+        "id": 4,
+        "nombreSuperheroe": "Nebulon",
+        "nombreReal": "Kael Vortex",
+        "nombreSociedad": "Guardián Galáctico",
+        "edad": 320,
+        "planetaOrigen": "Zyphora",
+        "debilidad": "Campos magnéticos intensos",
+        "poder": [
+          "Manipulación de energía cósmica", 
+          "Teletransportación", 
+          "Vuelo",
+          "Escudos de plasma"
+           ],
+        "habilidadEspecial": "Absorción estelar",
+        "aliado": ["Lumina"],
+        "enemigo": ["Dr. Vacuus"]
+    },
+    {
+        "id": 5,
+        "nombreSuperheroe": "Hulk",
+        "nombreReal": "Bruce Banner",
+        "nombreSociedad": "Vigilante",
+        "edad": 40,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Control emocional",
+        "poder": [
+          "Fuerza bruta",
+          "Resistencia"
+          ],
+        "habilidadEspecial": "Regeneración rápida",
+        "aliado": ["Ironman"],
+        "enemigo": ["Loki"]
+    },
+    {
+        "id": 6,
+        "nombreSuperheroe": "Doctor Strange",
+        "nombreReal": "Stephen Strange",
+        "nombreSociedad": "Hechicero Supremo",
+        "edad": 40,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Desconocida",
+        "poder": [
+          "Magia",
+          "Teletransportación"
+          ],
+        "habilidadEspecial": "Hechizos poderosos",
+        "aliado": ["Wong"],
+        "enemigo": ["Dormammu"]
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "Lumina",
+        "nombreReal": "Elara Shine",
+        "nombreSociedad": "Entidad de Luz",
+        "edad": 150,
+        "planetaOrigen": "Luminis",
+        "debilidad": "Oscuridad absoluta",
+        "poder": [
+          "Manipulación de luz",
+          "Invisibilidad",
+          "Velocidad lumínica",
+          "Rayos fotónicos"
+          ],
+        "habilidadEspecial": "Curación energética",
+        "aliado": ["Nebulon"],
+        "enemigo": ["Dr. Vacuus"]
+    }
+]
